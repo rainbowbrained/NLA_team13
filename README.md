@@ -9,4 +9,5 @@ examination of their spectral properties
 1. assessment of matrices orthogonality
 2. evaluation of sparsity across all matrices
 3. analysis matrices weights evolution in different matrix norms
+   
 By employing a comprehensive approach to these characteristics, we aim to enhance our understanding of LLM training dynamics and contribute to discussions on model interpretability and optimization. This work builds on existing literature that emphasizes the importance of understanding weight distribution properties during training, providing empirical insights that can inform future research in model architecture and training methodologies.
